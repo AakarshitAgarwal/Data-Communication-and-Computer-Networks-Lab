@@ -1,0 +1,13 @@
+Trying to be more cooperative with college studies!
+
+Learned about new commands in cmd such as-
+
+1)ping
+2)tracert
+3)pathping
+4)ipconfig
+5)route
+6)nslookup
+7)netstat
+8)arp
+9)getmac
